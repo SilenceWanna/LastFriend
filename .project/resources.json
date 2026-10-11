@@ -1,0 +1,15 @@
+{
+  "$schema": "../schemas/resources.schema.json",
+
+  "preload_groups": [
+    "p1_images"
+  ],
+  "groups": {
+    "default": [
+      "**"
+    ],
+    "p1_images": [
+      "image/P1/*"
+    ]
+  }
+}

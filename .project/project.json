@@ -1,0 +1,44 @@
+{
+  "$schema": "../schemas/project.schema.json",
+  "project_id": "m_d0j3",
+  "author": {
+    "id": "333044372"
+  },
+  "entry": "main.lua",
+  "version": "1.0.12",
+  "taptap_publish": {
+    "title": "Last Friend",
+    "description": "Last Friend is a narrative sci-fi adventure where every choice shapes trust, memory, and survival.\n在末世废墟中苏醒，探索失落的记忆，决定是否相信唯一向你伸出援手的人。",
+    "category": "adventure",
+    "screen_orientation": "landscape",
+    "collection_type": "sce",
+    "trial_note": "你好。\n谢谢你点开这个小小的 Demo。\n它没有宏大的制作规模，却装着Lyra第一次参加 Game Jam 的热情，也装着很多关于\"信任\"和\"选择\"的思考。\n如果某个瞬间，你开始怀疑自己的判断；如果通关后，你还在想\"如果当时选另一条路会怎样\"，那么这个故事就没有白讲。\n最后，祝你玩得开心。\n也希望有一天，Lyra能带着更完整的作品跟大家再次见面。",
+    "app_platforms": "1,2",
+    "developer_id": 445722,
+    "gameplay_demo_video_source": "https://tapcode-sce.spark.xd.com/videos/f5708004-1a30-4a6e-96aa-bc6f3e4f7190/1787351176485-uploaded_126169d1.mp4",
+    "app_id": 911565,
+    "miniapp_id": "tapmcm706gvxqncvdy",
+    "release_phase": "official"
+  },
+  "assets": {
+    "icon_url": "https://tapcode-sce.spark.xd.com/assets/game_material/m_d0j3/icon.png",
+    "screenshot_urls": [
+      "https://tapcode-sce.spark.xd.com/assets/game_material/m_d0j3/screenshot_1.png",
+      "https://tapcode-sce.spark.xd.com/assets/game_material/m_d0j3/screenshot_2.png",
+      "https://tapcode-sce.spark.xd.com/assets/game_material/m_d0j3/screenshot_3.png"
+    ],
+    "promotional_image_url": "https://tapcode-sce.spark.xd.com/assets/game_material/m_d0j3/promotional.png",
+    "cover_vertical": "./.project/game_material/COVER_VERTICAL_2026-08-21T22-27-59_01.png",
+    "cover_vertical_url": "https://tapcode-sce.spark.xd.com/assets/game_material/Last Friend/COVER_VERTICAL_2026-08-21T22-27-59_01.png",
+    "cover_horizontal": "./.project/game_material/COVER_HORIZONTAL_2026-08-21T22-27-59_01.png",
+    "cover_horizontal_url": "https://tapcode-sce.spark.xd.com/assets/game_material/Last Friend/COVER_HORIZONTAL_2026-08-21T22-27-59_01.png"
+  },
+  "metadata": {
+    "updated_at": "2026-09-08T16:01:35.909Z",
+    "promo_dependent_hash": "740c162c67d550ab511f65e1dd9cb98a"
+  },
+  "test_qrcode": {
+    "url": "https://tapcode-sce.spark.xd.com/qrcode/m_d0j3_1788176732561.png",
+    "generated_at": "2026-08-31T11:45:32.686Z"
+  }
+}
